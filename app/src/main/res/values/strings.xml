@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageUploader</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna tortor, semper eu feugiat eu, vehicula vitae lacus.</string>
+    <string name="upload">Upload Image</string>
+</resources>
